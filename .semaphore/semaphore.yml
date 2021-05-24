@@ -26,7 +26,7 @@ blocks:
     task:
       agent:
         machine:
-          type: a1-standard-8
+          type: e1-standard-8
 
       prologue:
         commands:
